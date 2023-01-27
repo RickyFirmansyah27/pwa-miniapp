@@ -1,1 +1,1 @@
-Dans App React 
+OJT DAnS Multi Pro - React Redux MiniApp
