@@ -1,0 +1,39 @@
+.mid-img {
+    margin-left: 140px;
+    margin-top: 30px;
+}
+
+.mid-btn {
+    margin-left: 185px;
+}
+.midBtn {
+    margin-left: 650px;
+}
+
+
+.ListCard {
+    background-color: gray;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+}
+.card {
+    background-color: gray;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ListProfile {
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
