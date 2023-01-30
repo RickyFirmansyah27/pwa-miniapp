@@ -5,7 +5,7 @@
 ```bash
 npm install
 ```
----------
+
 
 ### Run
 #### Ada dua command yang harus di run  yaitu:
@@ -15,6 +15,7 @@ npm start
 ```bash
 json-server -w db.json -p 5000
 ```
+---------
 #### Note
 instalasi pada json-server menyertakan global install
 ```bash
