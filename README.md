@@ -43,7 +43,8 @@ port yang digunakan adalah localhost:5000 dengan API palsu untuk fetch data User
       "role": "user"
     }
   ]
-}```
+}
+```
 
 #### Endpoint
 ```bash
