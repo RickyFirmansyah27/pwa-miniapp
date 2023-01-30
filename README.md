@@ -15,6 +15,11 @@ npm start
 ```bash
 json-server -w db.json -p 5000
 ```
+####Note
+instalasi pada json-server menyertakan global install
+```bash
+npm install -g json-server
+```
 
 ---------
 port yang digunakan adalah localhost:5000 dengan API palsu untuk fetch data Userlist
@@ -39,4 +44,8 @@ port yang digunakan adalah localhost:5000 dengan API palsu untuk fetch data User
     }
   ]
 }
+
+###Endpoint
 ```bash
+localhost:5000/userlist
+```
