@@ -1,14 +1,14 @@
 # OJT DAnS Multi Pro - React Redux MiniApp
 
-## Install Package
-### Instalasi semua package yang diperlukan dalam menjalankan miniapp
+### Install Package
+#### Instalasi semua package yang diperlukan dalam menjalankan miniapp
 ```bash
 npm install
 ```
 ---------
 
-## Run
-### Ada dua command yang harus di run  yaitu:
+### Run
+#### Ada dua command yang harus di run  yaitu:
 ```bash
 npm start
 ```
@@ -45,7 +45,7 @@ port yang digunakan adalah localhost:5000 dengan API palsu untuk fetch data User
   ]
 }
 
-###Endpoint
+#### Endpoint
 ```bash
 localhost:5000/userlist
 ```
