@@ -15,7 +15,7 @@ npm start
 ```bash
 json-server -w db.json -p 5000
 ```
-####Note
+###Note
 instalasi pada json-server menyertakan global install
 ```bash
 npm install -g json-server
