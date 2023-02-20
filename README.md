@@ -13,7 +13,14 @@ npm start
 ```
 
 ---------
-#### Screenshoot
-PWA Console Log Register Service Worker
+#### Screenshoot 1
+PWA Console Log  (force offline network)
 ![console-log](images/console-log.PNG)
 
+#### Screenshoot 2
+PWA Performance Lighthouse
+![performance](images/performance.PNG)
+
+#### Screenshoot 3
+PWA Service Worker Register
+![service-worker](images/service-worker.PNG)
