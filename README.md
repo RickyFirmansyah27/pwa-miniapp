@@ -24,3 +24,7 @@ PWA Performance Lighthouse
 #### Screenshoot 3
 PWA Service Worker Register
 ![service-worker](images/service-worker.PNG)
+
+#### Screenshoot 4
+PWA Installing App
+![installed-apps](images/installed-apps.PNG)
